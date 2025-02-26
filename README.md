@@ -15,8 +15,11 @@ A simple and efficient note-taking application built for developers.
 
 ## Tech Stack
 
-- Flask (Backend)
-- HTML, CSS, JavaScript (Frontend)
+- Vite.js (Frontend)
+- React.js
+- Tailwind CSS
+- Node.js (Backend)
+- Express.js
 - SQLite (Database)
 
 ## Installation
@@ -27,24 +30,18 @@ A simple and efficient note-taking application built for developers.
    cd NoteDev
    ```
 
-2. **Create a virtual environment (optional but recommended)**
+2. **Install dependencies**
    ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   npm install
    ```
 
-3. **Install dependencies**
+3. **Run the development server**
    ```sh
-   pip install -r requirements.txt
+   npm run dev
    ```
 
-4. **Run the application**
-   ```sh
-   python app.py
-   ```
-
-5. **Open in browser**
-   Navigate to `http://127.0.0.1:5000/` in your web browser.
+4. **Open in browser**
+   Navigate to the provided local server URL in your terminal output.
 
 ## Usage
 
@@ -55,7 +52,7 @@ A simple and efficient note-taking application built for developers.
 
 ## Configuration
 
-- Modify `config.py` to adjust settings such as database configurations and themes.
+- Modify `config.js` to adjust settings such as database configurations and themes.
 
 ## Contributing
 
@@ -72,4 +69,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 
 For issues or feature requests, open an issue on GitHub or reach out to [your contact email or social handle].
+
 
