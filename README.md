@@ -2,6 +2,7 @@
 
 A simple and efficient note-taking application built for developers.
 
+![Screenshot 2025-02-26 133153](https://github.com/user-attachments/assets/f8fb2b99-f03f-4327-b7d7-2a5a54f0e255)
 ![504shots_so](https://github.com/user-attachments/assets/5d90cdba-3973-4777-9426-6af16174fa1a)
 ![506shots_so](https://github.com/user-attachments/assets/c6062257-2340-4906-8f61-de2e6b422afb)
 
